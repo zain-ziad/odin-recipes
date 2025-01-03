@@ -1,0 +1,51 @@
+body {
+    font-family: "Lucida Console", sans-serif;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.heading {
+    font-family: "Monaco", sans-serif;
+    font-weight: 700;
+    color: rgb(48, 48, 48);
+    background-color: rgb(250, 250, 250);
+    padding: 16px 8px;
+}
+
+.main-heading {
+    text-align: center;
+    font-size: 28px;
+}
+
+.img-icons {
+    display: block;
+    width: 285px;
+    height: 235px;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div-icons {
+    display: inline-block;
+    outline: 2px;
+    outline-style: solid;
+    outline-color:  rgb(250, 250, 250);
+    margin: 8px;
+}
+
+.text-icons {
+    text-align: center;
+    margin: 20px;
+}
+
+.banner-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nihari-banner {
+    transform: scaleX(1.10);
+    transform-origin: center;
+}
